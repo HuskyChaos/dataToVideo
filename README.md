@@ -1,5 +1,5 @@
 # Data To Video  
-### Converts data into video file.  
+### Converts data into video file and vice versa.  
 To encode file
 ```
 chmod +x encoder.py
